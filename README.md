@@ -1,6 +1,6 @@
 # A comparison of topologically associating domain callers based on Hi-C data
 
-This Github repository is used for reproducing the results in the manuscript *A comparison of topologically associating domain callers based on Hi-C data*. If you have any questions for this Github repository, please feel free to contact with me (kun.liu AT mail.csu.edu.cn).
+This Github repository is used for reproducing the results in the manuscript *A comparison of topologically associating domain callers based on Hi-C data*. If you have any questions for this Github repository, please feel free to contact with me emre.sefer@ozyegin.edu.tr
 
 ## prepare Hi-C data (scripts are in the prepare_data folder)
 
